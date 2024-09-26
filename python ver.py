@@ -1,5 +1,4 @@
-#RUN CODE HERE
-#PRACTICE:LOGIN IF-ELSE STATEMENT FOR USERNAME AND PASSWORD ENTRY
+#Python User Login Feature
 
 users = {
   "user1": "password1",
